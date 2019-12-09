@@ -1,7 +1,7 @@
 
 ## Prácias en curso Esic y ejercicios realizados por cuenta propia.
 
-### Casos:
+### Ejercicios:
 * Leer un .json.
 
 * Web Scraping, leer información de una página web extrayéndolo del HTML.
